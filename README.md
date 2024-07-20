@@ -2,7 +2,12 @@
 
 This account was the old username for [@Dot32Dev](https://github.com/Dot32Dev)
 
-When renaming accounts, links to the prevous account-name's repos will redirect to the new one, unless sombody creates a new account in the old accounts username and creates repos with the same names. I created this account myself as Dot32, such that I can be the one in control. 
+When changing your account's username:
+> Web links to your existing repositories will continue to work. This can take a few minutes to complete after you make the change.
+
+> If the new owner of your old username creates a repository with the same name as your repository, that will override the redirect entry and your redirect will stop working.
+
+I createed this account myself so that I would be the one in control, and so that nobody could maliciously create my repositories pretending to be me. If I do not create repositories on this account previous links to my repos remain correct.
 
 If you got here by clicking on a link to my github profile, you probably meant to go to my main account, [@Dot32Dev](https://github.com/Dot32Dev).
 
